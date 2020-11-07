@@ -1,0 +1,6 @@
+baseURL = "https://v3gal0g.github.io/"
+languageCode = "en-us"
+title = "v3gal0g"
+
+[permalinks]
+post = "/:slug/"​
